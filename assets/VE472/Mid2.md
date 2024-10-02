@@ -1,7 +1,8 @@
 ---
 title: Midterm Review 2
-parent: VE472
+parent: VE472 Big Data Tools
 has_toc: false
+nav_exclude: true
 ---
 
 # VE472 Midterm Review 2
