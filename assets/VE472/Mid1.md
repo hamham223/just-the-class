@@ -1,3 +1,10 @@
+---
+title: Midterm Review 1
+Parent: VE472
+nav_order: 4
+has_toc: false
+---
+
 # VE472 Midterm Review 1
 
 ## Big data

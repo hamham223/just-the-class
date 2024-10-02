@@ -1,3 +1,10 @@
+---
+title: Final Review 2
+Parent: VE472
+nav_order: 4
+has_toc: false
+---
+
 # Optimization
 
 ## Small data -> GD
