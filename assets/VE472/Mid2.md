@@ -1,7 +1,6 @@
 ---
 title: Midterm Review 2
 parent: VE472
-nav_order: 4
 has_toc: false
 ---
 

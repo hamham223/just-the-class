@@ -1,7 +1,6 @@
 ---
 title: Final Review 2
 parent: VE472
-nav_order: 2
 has_toc: false
 ---
 
