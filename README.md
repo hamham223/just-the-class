@@ -23,11 +23,12 @@ Course assisted in previous semesters:
 |Semester   |   Course                                                   |Enrollments|
 |:----------|:-----------------------------------------------------------|:---------:|
 |2021 Fall  |[VV186 (MATH1860J) Honors Mathematics II](VV186.md)         |125        |
-|2021 Fall  |VV115 (MATH1150J) Calculas I                                |24         |
+|2021 Fall  |VV115 (MATH1150J) Calculus I                                |24         |
 |2022 Spring|VE203 (MATH2030J) Discrete Math                             |107        |
 |2022 Summer|[VG101 (ENGR1010J) Intro. to Computer Programming](VG101.md)|78         |
 |2022 Fall  |[VE280 (ECE2800J) Elem. Programing](VE280.md)               |132        |
 |2023 Summer|[VE203 (MATH2030J) Discrete Math](VE203.md)                 |69         |
+|2024 Summer|[VE472 (ECE4721J) Methods and Tools for Big Data](VE472.md) |16         |
 
 ## Future Plans on the Page
 
