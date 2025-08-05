@@ -29,6 +29,7 @@ Course assisted in previous semesters:
 |2022 Fall  |[VE280 (ECE2800J) Elem. Programing](VE280.md)               |132        |
 |2023 Summer|[VE203 (MATH2030J) Discrete Math](VE203.md)                 |69         |
 |2024 Summer|[VE472 (ECE4721J) Methods and Tools for Big Data](VE472.md) |16         |
+|2025 Summer|VE527 (ECE6703J) Into. to Computer Aided Design             |31         |
 
 ## Future Plans on the Page
 
